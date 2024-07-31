@@ -156,14 +156,14 @@ const allSongs = [
     id: 9,
     name: "Pantropiko",
     duration: "3:45",
-    src: `songs\\BINI - Pantropiko (Lyrics).mp3`,
+    src: `BINI - Pantropiko (Lyrics).mp3`,
     time: 225000
   },
   {
     id: 10,
     name: "Cherry On Top",
     duration: "2:55",
-    src: "songs\\BINI - Cherry On Top Lyrics (Framed) (1).mp3",
+    src: "BINI - Cherry On Top Lyrics (Framed) (1).mp3",
     time: 175000
 
   },
@@ -171,28 +171,28 @@ const allSongs = [
     id: 11,
     name: "Karera",
     duration: "4:27",
-    src: "songs\\BINI - Karera Lyrics (Framed).mp3",
+    src: "BINI - Karera Lyrics (Framed).mp3",
     time: 267000
   },
   {
     id: 12,
     name: "I Feel Good",
     duration: "0:56",
-    src:"songs\\BINI - I Feel Good Lyrics (Framed).mp3",
+    src:"BINI - I Feel Good Lyrics (Framed).mp3",
     time:56000
   },
    {
     id: 13,
     name: "Golden Arrow",
     duration: "3:47",
-    src:"songs\\BINI - Golden Arrow Lyrics (Framed).mp3",
+    src:"BINI - Golden Arrow Lyrics (Framed).mp3",
     time:227000
    },
    {
     id: 14,
     name: "Na Na Na",
     duration: "4:08",
-    src:"songs\\BINI - Na Na Na Lyrics (Framed).mp3",
+    src:"BINI - Na Na Na Lyrics (Framed).mp3",
     time:248000
    }
   ,
@@ -200,7 +200,7 @@ const allSongs = [
     id: 15,
     name:"Salamin Salamin",
     duration: "3:50",
-    src:"songs\\@BINIPH - Salamin, Salamin Lyrics (Framed).mp3",
+    src:"@BINIPH - Salamin, Salamin Lyrics (Framed).mp3",
     time:230000
   }
 
